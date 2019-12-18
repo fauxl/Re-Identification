@@ -1,0 +1,1 @@
+Nome Data Nascita Indirizzo(cap) stato-sociale sesso lavoro
