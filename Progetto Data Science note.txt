@@ -1,0 +1,23 @@
+- Testing n. di features -
+> Testing qualitative dell' algoritmo con varie 
+  combinazioni di features 
+> l'algoritmo è in grado di distinguere facilmente tra:
+  Età (60) * workclass (8) * Education (15) * Marital-status (6) * 
+  Occupation (40) * Relationship (5) * Race(4) * Sex (2) * 
+  Native Country(15) * Income (2)
+  
+  = 2.073.600.000 => 2 miliardi di persone diverse
+
+- Testing algoritmo- 
+> Confusion matrix
+> Accuracy score
+> Report | precision, recall, f1-score, support
+> Roc curve | FP, FN, TP, TN + altri valori
+
+- Valutazione algoritmo su dati reali -
+> Distanza euclidea da array di feature predetto e
+  array del soggetto scelto
+> Distanza euclidea media
+
+
+- sezione sviluppo -
